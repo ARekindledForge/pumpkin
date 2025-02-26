@@ -1,0 +1,1 @@
+{"Action": 74, "Adventure": 49, "Simulation": 24, "Massively Multiplayer": 3, "Casual": 23, "Indie": 48, "Strategy": 18, "Early Access": 4, "Free To Play": 14, "RPG": 17, "Racing": 3, "Sports": 5, "Acci\u00f3n": 1, "Rol": 1}
